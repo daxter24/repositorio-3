@@ -12,7 +12,7 @@ import java.util.HashSet;
 /**
  * Description of Fruta.
  * 
- * @author USUARIO
+ * @author borbonio
  */
 
 public class Fruta {
